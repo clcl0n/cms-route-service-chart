@@ -1,0 +1,8 @@
+apiVersion: v2
+description: Cms Route Service Helm Chart
+name: cms-route-service-chart
+version: ${CHART_VERSION}
+keywords:
+  - cms
+  - route
+  - service
